@@ -1,0 +1,21 @@
+name,email,signup_date,plan,monthly_spend,status,company,phone
+John Smith,john.smith@acme.com,2024-01-15,Enterprise,299.00,active,Acme Corp,(404) 555-1234
+  jane doe ,JANE.DOE@GLOBEX.COM,01/22/2024,pro,99.00,Active,globex corporation,4045559876
+Bob Johnson,bob.j@initech.com,2024-02-03,enterprise,299.00,ACTIVE,Initech, 404-555-3456
+ALICE WONG,alice@example.com,March 5 2024,Pro,99.00,active,TechStart Inc,+1 (404) 555-7890
+john smith,john.smith@acme.com,2024-01-15,Enterprise,299.00,active,Acme Corp,(404) 555-1234
+Charlie Brown,charlie.b@peanuts.io,2024/03/18,starter,,Active,Peanuts LLC,404.555.2345
+Diana Prince,,04-01-2024,Pro,99.00,active,Themyscira Ltd,(404) 555-8901
+  Bob Johnson ,bob.j@initech.com,Feb 3 2024,Enterprise,299.00,active,INITECH,404-555-3456
+Eve Martinez,eve.m@stark.com,2024-04-22,ENTERPRISE,299.00,churned,Stark Industries,(404)5551122
+frank castle,frank@netflix.com,2024-05-01,Starter,49.00,Active,Netflix Inc,N/A
+Grace Lee,grace.lee@wayneent.com,5/15/2024,pro,99.00,ACTIVE,wayne enterprises,4045553344
+Hank Pym,hank@pymtech.com,2024-06-01,Enterprise,$299.00,active,Pym Technologies,(404) 555-4455
+ivan drago,ivan@rocky.com,06/15/2024,starter,49.00,cancelled,Rocky Corp,none
+Jane Doe,JANE.DOE@GLOBEX.COM,2024-01-22,Pro,99.00,active,Globex Corporation,(404) 555-9876
+Kelly Park,kelly@startup.io,2024-07-01,pro,,active,StartUp.io,TBD
+Larry David,larry@hbo.com,July 20th 2024,Enterprise,299.00,Active,HBO Max,(404) 555-6677
+maria garcia,maria.g@company.com,2024-08-05,Pro,99.0,active,The Company,404 555 7788
+NANCY DREW,nancy@mystery.com,8/19/2024,STARTER,49.00,Active,Mystery Inc.,  (404) 555-8899
+Oscar Wilde,oscar@literature.com,2024-09-01,Enterprise,299.00,inactive,Literature Co,(404) 555-9900
+  Pat Kim ,pat.kim@design.co,09-15-2024,pro,99.00,ACTIVE,Design Co,4045551010
